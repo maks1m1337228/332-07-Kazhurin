@@ -1,0 +1,26 @@
+C:\Users\кажурин мг\source\repos\project_04\bin\Release\project_04.exe.config
+C:\Users\кажурин мг\source\repos\project_04\bin\Release\project_04.exe
+C:\Users\кажурин мг\source\repos\project_04\bin\Release\project_04.pdb
+C:\Users\кажурин мг\source\repos\project_04\bin\Release\Newtonsoft.Json.dll
+C:\Users\кажурин мг\source\repos\project_04\bin\Release\Newtonsoft.Json.xml
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.csproj.AssemblyReference.cache
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.Form1.resources
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.Properties.Resources.resources
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.csproj.GenerateResource.cache
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.csproj.CoreCompileInputs.cache
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.csproj.Up2Date
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.exe
+C:\Users\кажурин мг\source\repos\project_04\obj\Release\project_04.pdb
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\bin\Release\project_04.exe.config
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\bin\Release\project_04.exe
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\bin\Release\project_04.pdb
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\bin\Release\Newtonsoft.Json.dll
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\bin\Release\Newtonsoft.Json.xml
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.csproj.AssemblyReference.cache
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.Form1.resources
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.Properties.Resources.resources
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.csproj.GenerateResource.cache
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.csproj.CoreCompileInputs.cache
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.csproj.Up2Date
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.exe
+C:\Users\кажурин мг\source\repos\project 04\kazhurin-students\obj\Release\project_04.pdb

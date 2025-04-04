@@ -1,0 +1,13 @@
+C:\Users\кажурин мг\source\repos\project_04\bin\Debug\project_04.exe.config
+C:\Users\кажурин мг\source\repos\project_04\bin\Debug\project_04.exe
+C:\Users\кажурин мг\source\repos\project_04\bin\Debug\project_04.pdb
+C:\Users\кажурин мг\source\repos\project_04\bin\Debug\Newtonsoft.Json.dll
+C:\Users\кажурин мг\source\repos\project_04\bin\Debug\Newtonsoft.Json.xml
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.csproj.AssemblyReference.cache
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.Form1.resources
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.Properties.Resources.resources
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.csproj.GenerateResource.cache
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.csproj.CoreCompileInputs.cache
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.csproj.Up2Date
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.exe
+C:\Users\кажурин мг\source\repos\project_04\obj\Debug\project_04.pdb
